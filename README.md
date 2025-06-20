@@ -5,8 +5,7 @@ class ETLPipeline:
         self.extract = {
             "source": "Illinois Institute of Technology",
             "Degree": "Information Technology and Management",
-            "data_feeds": ["2020–2023: Graduate Assistant","2020–2023: Mcube", "2019–2020: NAL"],
-            "bonus_inputs": ["Power BI", "Tableau", "Apache Spark", "Cloud", "Open-source side quests"]
+            "data_feeds": ["2024–2025: Graduate Assistant","2020–2023: Mcube", "2019–2020: NAL"]
         }
          self.transform = {
             "leisure_loops": [
